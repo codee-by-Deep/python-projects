@@ -1,0 +1,16 @@
+Product,Category,Price,Quantity
+Phone,Electronics,60000,10
+Laptop,Electronics,80000,5
+Monitor,Electronics,12500,8
+Tablet,Electronics,35000,6
+Smartwatch,Electronics,8500,15
+Mouse,Accessories,1500,50
+Keyboard,Accessories,2500,20
+USB Cable,Accessories,300,100
+Headphones,Accessories,2000,30
+Webcam,Accessories,3500,12
+Notebook,Stationery,50,200
+Pen,Stationery,10,500
+Stapler,Stationery,150,40
+Desk Lamp,Furniture,1200,25
+Office Chair,Furniture,7000,10
