@@ -1,8 +1,8 @@
 import requests
 
 def currency_conversion():
-    api_key = "bf0b0c0315d17f0c94d99946"
-    url = f"https://v6.exchangerate-api.com/v6/bf0b0c0315d17f0c94d99946/latest/USD"
+    api_key = "your_api_key_here"  # placeholder
+    url = f"https://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}"
 
     respond = requests.get(url)
     data = respond.json()
