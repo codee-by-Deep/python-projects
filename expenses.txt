@@ -1,9 +1,0 @@
-Food,500
-Travelling,200
-Shopping,1500
-Coffee,100
-Stay,800
-Candy,10
-Cab,250
-Tip,50
-Movie,250
